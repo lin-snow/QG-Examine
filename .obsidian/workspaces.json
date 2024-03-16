@@ -1,0 +1,385 @@
+{
+  "workspaces": {
+    "记账": {
+      "main": {
+        "id": "1c8a2d22645d4ba7",
+        "type": "split",
+        "children": [
+          {
+            "id": "07b9f2fd6f5802a4",
+            "type": "tabs",
+            "dimension": 48.185483870967744,
+            "children": [
+              {
+                "id": "3bf3b030e91f0f01",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Home/账本/月基本生活费.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "47213597c409913e",
+            "type": "tabs",
+            "dimension": 51.81451612903226,
+            "children": [
+              {
+                "id": "538ce424d1f0781e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Home/账本/除月生活费外花销.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b6f96a78e0bcaefb",
+        "type": "split",
+        "children": [
+          {
+            "id": "48674ca5e2d9c164",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9f32265cdbebda74",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "a0182cde634964d3",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 324
+      },
+      "right": {
+        "id": "2e8173eb31899d65",
+        "type": "split",
+        "children": [
+          {
+            "id": "4fd6fd5d91c02fda",
+            "type": "tabs",
+            "dimension": 63.38028169014085,
+            "children": [
+              {
+                "id": "0220911d6329a7a8",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Home/账本/除月生活费外花销.md"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "a000641954699cf8",
+            "type": "tabs",
+            "dimension": 36.61971830985916,
+            "children": [
+              {
+                "id": "ef88bcb9122741f8",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 336.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "workspaces:管理工作区布局": false,
+          "remotely-save:Remotely Save": false,
+          "command-palette:打开命令面板": false,
+          "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+          "translate:Open translation view": false
+        }
+      },
+      "active": "538ce424d1f0781e"
+    },
+    "Paper": {
+      "main": {
+        "id": "1c8a2d22645d4ba7",
+        "type": "split",
+        "children": [
+          {
+            "id": "da7081ec9845d8e3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "41d0a5c56899712f",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "d211397fae4d7405",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "17f4cb67d9295d1c",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b6f96a78e0bcaefb",
+        "type": "split",
+        "children": [
+          {
+            "id": "48674ca5e2d9c164",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9f32265cdbebda74",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "a0182cde634964d3",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 324
+      },
+      "right": {
+        "id": "2e8173eb31899d65",
+        "type": "split",
+        "children": [
+          {
+            "id": "4fd6fd5d91c02fda",
+            "type": "tabs",
+            "dimension": 63.38028169014085,
+            "children": [
+              {
+                "id": "0220911d6329a7a8",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "a000641954699cf8",
+            "type": "tabs",
+            "dimension": 36.61971830985916,
+            "children": [
+              {
+                "id": "ef88bcb9122741f8",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 336.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "workspaces:管理工作区布局": false,
+          "remotely-save:Remotely Save": false,
+          "command-palette:打开命令面板": false,
+          "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+          "translate:Open translation view": false
+        }
+      },
+      "active": "41d0a5c56899712f"
+    },
+    "Welcome": {
+      "main": {
+        "id": "1c8a2d22645d4ba7",
+        "type": "split",
+        "children": [
+          {
+            "id": "83d1e24cc0f2a019",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ea10951be9174484",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Schedules.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b6f96a78e0bcaefb",
+        "type": "split",
+        "children": [
+          {
+            "id": "48674ca5e2d9c164",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9f32265cdbebda74",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "a0182cde634964d3",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 324
+      },
+      "right": {
+        "id": "2e8173eb31899d65",
+        "type": "split",
+        "children": [
+          {
+            "id": "4fd6fd5d91c02fda",
+            "type": "tabs",
+            "dimension": 63.38028169014085,
+            "children": [
+              {
+                "id": "0220911d6329a7a8",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Schedules.md"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "a000641954699cf8",
+            "type": "tabs",
+            "dimension": 36.61971830985916,
+            "children": [
+              {
+                "id": "ef88bcb9122741f8",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 336.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "workspaces:管理工作区布局": false,
+          "remotely-save:Remotely Save": false,
+          "command-palette:打开命令面板": false,
+          "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+          "translate:Open translation view": false
+        }
+      },
+      "active": "ea10951be9174484"
+    }
+  },
+  "active": "Welcome"
+}

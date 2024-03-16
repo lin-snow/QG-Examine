@@ -1,0 +1,52 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "🥳",
+      "🖥",
+      "📷",
+      "💸",
+      "👻"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true
+  },
+  "Blog": "📓",
+  "GDUT": "🏫",
+  "Home": "🏠",
+  "Home/Plans And Tasks": "📅",
+  "Photo": "🖼",
+  "Site": "🌐",
+  "ToolKits": "🧰",
+  "README.md": "🍥",
+  "Photo/Wallpapers": "🧷",
+  "Photo/Personal": "🙃",
+  "Photo/Others": "😍",
+  "Draw": "🖍",
+  "Data": "🥔",
+  "Photo/弔图": "😅",
+  "This-Week-Schedule.md": "⏲",
+  "Something-Need-TO-Be-Done.md": "🫥",
+  "Today-I-Want.md": "🫠",
+  "GDUT/大学": "👻",
+  "Home/账本": "💸",
+  "Photo/Works": "📷",
+  "Ledger": "💸",
+  "Computer-Science": "🖥",
+  "Others": "🥳"
+}
