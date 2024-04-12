@@ -56,78 +56,6 @@ Status BST_insert(BinarySortTreePtr BST, ElemType value)
     return succeed;
 }
 
-// Status BST_delete(BinarySortTreePtr BST, ElemType value) 
-// {
-//     // check the BST is empty
-//     if (BST->root == NULL) {
-//         printf("The BST is empty\n");
-//         return failed;
-//     }
-
-//     // find the Node to delete
-//     NodePtr p = BST->root;
-//     NodePtr q = NULL;
-//     while (p != NULL && p->value != value) {
-//         q = p;
-//         if (value < p->value) {
-//             p = p->left;
-//         }else if (value > p->value) {
-//             p = p->right;
-//         }
-//     }
-
-//     // check the Node is exist
-//     if (p == NULL) {
-//         return failed; 
-//     }
-
-//     // delete the Node
-//     if (p->left == NULL && p->right == NULL) {
-//         if (q->left == p) {
-//             q->left = NULL;
-//         }
-//         if (q->right == p) {
-//             q->right = NULL;
-//         }
-//     }
-
-//     if (p->left != NULL && p->right == NULL) {
-//         if (q->left == p) {
-//             q->left = p->left;
-//         }
-//         if (q->right == p) {
-//             q->right = p->left;
-//         }
-//     }
-
-//     if (p->left == NULL && p->right != NULL) {
-//         if (q->left == p) {
-//             q->left = p->right;
-//         }
-//         if (q->right == p) {
-//             q->right = p->right;
-//         }
-//     }
-
-    
-
-//     if (p->left != NULL && p->right != NULL) {
-//         // find the min Node in right subtree
-//         NodePtr min  = p->right;
-//         while (min->left != NULL) {
-//             min = min->left;
-//         }
-//         // replace the value
-//         p->value = min->value;
-        
-//         // delete the min Node
-//         BST_delete(BST, min->value);
-//     }
-
-//     free(p);
-//     p = NULL;
-//     return succeed;
-// }
 
 Status BST_delete(BinarySortTreePtr BST, ElemType value) {
     // check the BST is empty
@@ -437,4 +365,5 @@ Status BST_levelOrder(BinarySortTreePtr BST) {
 
     return succeed;
 }
+
 #endif
